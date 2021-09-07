@@ -1,17 +1,11 @@
 
 # breakout-compose
 
-![buildStatus](https://img.shields.io/github/workflow/status/skrilltrax/breakout-compose/Java%20CI%20with%20Gradle?style=plastic)
-![latestVersion](https://img.shields.io/github/v/release/skrilltrax/breakout-compose)
-<a href="https://twitter.com/skrilltrax" target="_blank">
-<img alt="Twitter: skrilltrax" src="https://img.shields.io/twitter/follow/skrilltrax.svg?style=social" />
-</a>
-
 > The classic Breakout game built with Jetpack Compose
 
 ### ✨ Demo
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/I7RUZOu"><a href="//imgur.com/a/I7RUZOu">Breakout GIF</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://user-images.githubusercontent.com/10516866/132300391-611e1d7e-4de2-46f3-b170-ebf7c0d73912.mp4
 
 ## 🦿 Prerequisites
 
@@ -49,21 +43,9 @@ Please make sure to update tests as appropriate.
 
 Give a ⭐️ if this project helped you!
 
-<a href="https://www.patreon.com/ENTER_YOUR_PATRON_USERNAME">
-  <img alt="Patron Link" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"/>
-</a>
-
-<a href="https://www.buymeacoffee.com/skrilltrax" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
-</a>
-
-<a href="https://www.paypal.me/ENTER_YOUR_PAYPAL_USERNAME" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donation" width="160">
-</a>
-
 ## ☑️ TODO
 
-- [ ] Task 1
+- [ ] Add a level editor
 
 ## 📝 License
 
